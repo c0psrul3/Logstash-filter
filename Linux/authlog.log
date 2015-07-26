@@ -1,0 +1,8 @@
+Jul 26 19:32:35 sdahal pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Jul 26 19:32:35 sdahal pkexec[13108]: sdahal: Executing command [USER=root] [TTY=unknown] [CWD=/home/sdahal] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Jul 26 19:51:03 sdahal sudo:   sdahal : TTY=pts/15 ; PWD=/home/sdahal/git-logstash/Logstash-filter/Linux ; USER=root ; COMMAND=/bin/cp /opt/logstash/patterns/linux-syslog/authfail /opt/logstash/patterns/linux-syslog/bruteauth /opt/logstash/patterns/linux-syslog/iptables /opt/logstash/patterns/linux-syslog/sshfail /opt/logstash/patterns/linux-syslog/sucessssh /opt/logstash/patterns/linux-syslog/syslog .
+Jul 26 19:51:03 sdahal sudo: pam_unix(sudo:session): session opened for user root by sdahal(uid=0)
+Jul 26 19:51:03 sdahal sudo: pam_unix(sudo:session): session closed for user root
+Jul 26 19:51:32 sdahal sudo:   sdahal : TTY=pts/15 ; PWD=/home/sdahal/git-logstash/Logstash-filter/Linux ; USER=root ; COMMAND=/bin/chown sdahal.sdahal authfail bruteauth iptables sshfail sucessssh syslog
+Jul 26 19:51:32 sdahal sudo: pam_unix(sudo:session): session opened for user root by sdahal(uid=0)
+Jul 26 19:51:32 sdahal sudo: pam_unix(sudo:session): session closed for user root

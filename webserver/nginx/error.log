@@ -1,0 +1,1 @@
+2015/07/26 14:28:03 [error] 8301#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.1.83, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:5601/", host: "192.168.1.125"

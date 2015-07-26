@@ -1,0 +1,2 @@
+192.168.1.83 - kibanaadmin [26/Jul/2015:14:30:49 +0545] "POST /elasticsearch/_msearch?timeout=0&ignore_unavailable=true&preference=1437900211130 HTTP/1.1" 200 2626 "http://192.168.1.125/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:39.0) Gecko/20100101 Firefox/39.0"
+

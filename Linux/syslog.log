@@ -1,0 +1,10 @@
+Jul 26 18:54:41 sdahal whoopsie[1085]: online
+Jul 26 19:20:35 sdahal ntpdate[9784]: step time server 91.189.94.4 offset 1546.170570 sec
+Jul 26 19:20:43 sdahal NetworkManager[771]: <info> (eth0): IP6 addrconf timed out or failed.
+Jul 26 19:20:43 sdahal NetworkManager[771]: <info> Activation (eth0) Stage 4 of 5 (IPv6 Configure Timeout) scheduled...
+Jul 26 19:20:43 sdahal NetworkManager[771]: <info> Activation (eth0) Stage 4 of 5 (IPv6 Configure Timeout) started...
+Jul 26 19:20:43 sdahal NetworkManager[771]: <info> Activation (eth0) Stage 4 of 5 (IPv6 Configure Timeout) complete.
+Jul 26 19:40:57 sdahal NetworkManager[771]: <info> (eth0): carrier now OFF (device state 100, deferring action for 4 seconds)
+Jul 26 19:40:57 sdahal kernel: [23915.397046] e1000: eth0 NIC Link is Down
+Jul 26 19:41:01 sdahal NetworkManager[771]: <info> (eth0): carrier now ON (device state 100)
+Jul 26 19:41:01 sdahal kernel: [23919.405264] e1000: eth0 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX

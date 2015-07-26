@@ -1,0 +1,9 @@
+Jul 26 14:11:36 sdahal kernel: [16715.854634] Switched to clocksource acpi_pm
+Jul 26 14:34:29 sdahal kernel: [18088.860403] e1000: eth0 NIC Link is Down
+Jul 26 14:34:35 sdahal kernel: [18094.872683] e1000: eth0 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Jul 26 14:58:57 sdahal kernel: [18725.555918] e1000: eth0 NIC Link is Down
+Jul 26 14:59:03 sdahal kernel: [18731.564984] e1000: eth0 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Jul 26 18:54:31 sdahal kernel: [22674.886255] e1000: eth0 NIC Link is Down
+Jul 26 18:54:37 sdahal kernel: [22680.904533] e1000: eth0 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Jul 26 19:40:57 sdahal kernel: [23915.397046] e1000: eth0 NIC Link is Down
+Jul 26 19:41:01 sdahal kernel: [23919.405264] e1000: eth0 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
